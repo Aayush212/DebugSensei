@@ -122,19 +122,19 @@ GitHub - ```github.com/Aayush212```
 
 ## Troubleshooting
 
-Ensure that the DebugSensei model is running on the specified port.
+> Ensure that the DebugSensei model is running on the specified port.
 
-If facing CORS issues, configure your local server settings.
+> If facing CORS issues, configure your local server settings.
 
-For environment-related issues, make sure to activate the virtual environment.
+> For environment-related issues, make sure to activate the virtual environment.
 
 ## To Do
 
-Add support for more models.
+> Add support for more models.
 
-Implement conversation reset functionality.
+> Implement conversation reset functionality.
 
-Enhance UI with more customization options.
+> Enhance UI with more customization options.
 
 ## Changelog
 
